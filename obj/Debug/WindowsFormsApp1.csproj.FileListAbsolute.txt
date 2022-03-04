@@ -1,0 +1,11 @@
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainWindow.resources
+C:\Users\Hellos-PC\source\repos\HellosBookReader\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.libraryWindow.resources
